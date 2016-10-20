@@ -206,7 +206,7 @@ object FSynt: TSyntAnalyzer
     item
       DisplayName = 'Toad_Datatypes'
       Font.Charset = DEFAULT_CHARSET
-      Font.Color = clRed
+      Font.Color = clMenuHighlight
       Font.Height = -13
       Font.Name = 'Courier'
       Font.Style = []
@@ -214,7 +214,7 @@ object FSynt: TSyntAnalyzer
     item
       DisplayName = 'Toad_UserTables'
       Font.Charset = DEFAULT_CHARSET
-      Font.Color = clOlive
+      Font.Color = clLime
       Font.Height = -13
       Font.Name = 'Courier'
       Font.Style = []
@@ -222,7 +222,7 @@ object FSynt: TSyntAnalyzer
     item
       DisplayName = 'Toad_UserViews'
       Font.Charset = DEFAULT_CHARSET
-      Font.Color = clOlive
+      Font.Color = clLime
       Font.Height = -13
       Font.Name = 'Courier'
       Font.Style = []
@@ -230,7 +230,7 @@ object FSynt: TSyntAnalyzer
     item
       DisplayName = 'Toad_UserProcs'
       Font.Charset = DEFAULT_CHARSET
-      Font.Color = clOlive
+      Font.Color = clLime
       Font.Height = -13
       Font.Name = 'Courier'
       Font.Style = []
@@ -238,7 +238,7 @@ object FSynt: TSyntAnalyzer
     item
       DisplayName = 'Toad_SYSViews'
       Font.Charset = DEFAULT_CHARSET
-      Font.Color = clOlive
+      Font.Color = clYellow
       Font.Height = -13
       Font.Name = 'Courier'
       Font.Style = []
